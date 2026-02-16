@@ -17,11 +17,11 @@
 1. [Обзор данных](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/01_data_overview.ipynb)
 2. [Подготовка и очистка данных. Проектирование базы данных](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/02_database_creation.ipynb)
 3. [Feature engineering](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/03_feature_engineering.ipynb)
-4.1 [Разведочный анализ данных](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/04_1_EDA.ipynb)
-4.2 [Когортный анализ](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/04_2_cohort_analysis.ipynb)
-5. [А/В тестирование](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/05_AB_testing.ipynb)
-6. [Визуализация](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/06_Visualisation.ipynb)
-7. [Финальные выводы](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/07_Final.ipynb)
+4. [Разведочный анализ данных](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/04_1_EDA.ipynb)
+5. [Когортный анализ](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/04_2_cohort_analysis.ipynb)
+6. [А/В тестирование](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/05_AB_testing.ipynb)
+7. [Визуализация](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/06_Visualisation.ipynb)
+8. [Финальные выводы](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/07_Final.ipynb)
 
 ---
 
