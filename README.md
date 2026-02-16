@@ -8,7 +8,7 @@
 [Olist Brazilian E-Commerce dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce)  
 Данные за период 2016–2018 гг.
 
-Данные необходимо скачать и положить в директорию ./data
+Данные необходимо скачать и положить в директорию проекта [./data](https://github.com/semenovapolinaa/Olist-analytics/tree/main/data)
 
 ---
 
