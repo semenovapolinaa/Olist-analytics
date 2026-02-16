@@ -14,7 +14,14 @@
 
 ## Ноутбуки по этапам проекта
 
-
+1. [Обзор данных](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/01_data_overview.ipynb)
+2. [Подготовка и очистка данных. Проектирование базы данных](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/02_database_creation.ipynb)
+3. [Feature engineering](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/03_feature_engineering.ipynb)
+4.1 [Разведочный анализ данных](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/04_1_EDA.ipynb)
+4.2 [Когортный анализ](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/04_2_cohort_analysis.ipynb)
+5. [А/В тестирование](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/05_AB_testing.ipynb)
+6. [Визуализация](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/06_Visualisation.ipynb)
+7. [Финальные выводы](https://github.com/semenovapolinaa/Olist-analytics/blob/main/notebooks/07_Final.ipynb)
 
 ---
 
@@ -30,10 +37,9 @@
 ## Ключевые выводы
 
 1. Опоздание доставки ухудшает UX: средние оценки ниже, доля негативных отзывов выше.  
-2. Опоздавшие заказы дороже медианно, что связано с логистической сложностью.  
-3. Комбинация UX и денежных показателей показывает ключевые бизнес-риски.  
-4. Массовые сбои видны на уровне месяца (пример: октябрь 2016).  
-5. Различия между группами статистически значимы (p-value < 0.05).
+2. Опоздавшие заказы дороже медианно, что связано с логистической сложностью.   
+3. Массовые сбои при доставке заказов видны на уровне месяца (пример: октябрь 2016).  
+4. Различия между группами по результатам A/B статистически значимы (p-value < 0.05): опоздание доставки оказывает явное негативное влияние на пользовательский опыт.
 
 ---
 
